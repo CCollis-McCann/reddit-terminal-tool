@@ -4,7 +4,7 @@ A command line script to return posts from any given subreddit
 
 ## Available Scripts
 
-Clone the repo here using ssh [git@github.com:CCollis-McCann/reddit-terminal-tool.git](git@github.com:CCollis-McCann/reddit-terminal-tool.git) <br />
+Clone the repo here using ssh `git@github.com:CCollis-McCann/reddit-terminal-tool.git`<br />
 Run `./rtt.zsh *subreddit name here*` from the directory
 
 ### Goal and requirements
